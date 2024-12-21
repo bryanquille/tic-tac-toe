@@ -15,7 +15,7 @@ Welcome to **Tic Tac Toe**, the classic three-in-a-row game! This project is an 
 
 ## 🎯 How to Play
 1. Open the link to the game in your browser:  
-   *[Play here]()*
+   *[Play here](https://tictactoe-bqgame.netlify.app/)*
 2. Follow the classic rules:
    - Players alternate placing their symbols (X or O) on the grid.
    - The goal is to get three in a row (horizontally, vertically, or diagonally).
